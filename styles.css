@@ -2,14 +2,15 @@ body {
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-image: url("https://images.unsplash.com/photo-1617294804202-42318b4bcccf?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    background-size: contain;
-    background-position: center;
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
     color: white;
     text-align: center;
     padding: 20px;
 }
 div {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.9);
     width: 600px;
     margin: 0 auto;  /*bizu: margin: 0 (não meche em nada, e o auto ele centraliza)*/
     padding: 30px;
