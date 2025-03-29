@@ -10,7 +10,7 @@ body {
     padding: 20px;
 }
 div {
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(33, 32, 32, 0.9);
     width: 600px;
     margin: 0 auto;  /*bizu: margin: 0 (não meche em nada, e o auto ele centraliza)*/
     padding: 30px;
